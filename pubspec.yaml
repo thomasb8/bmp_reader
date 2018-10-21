@@ -1,0 +1,9 @@
+name: bmp_reader
+sdk: 2.0.0
+version: 0.0.1
+dependencies:
+  bootstrap_sass: any
+dev_dependencies:
+  sass_builder: ^2.1.2
+  build_runner: ^1.0.0
+  build_web_compilers: ^0.4.4+2

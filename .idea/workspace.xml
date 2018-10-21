@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="610a7750-0f51-473b-a8e7-9f458e7ff4f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/098d3ee73e6cc294616d3a2e2c3c81ad/asset_graph.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/entrypoint/build.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/.dartdevc.meta_module.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/async.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/async_cache.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/async_memoizer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/byte_collector.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/cancelable_operation.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/delegate/event_sink.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/delegate/future.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/delegate/sink.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/delegate/stream.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/delegate/stream_consumer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/delegate/stream_sink.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/delegate/stream_subscription.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/future_group.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/lazy_stream.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/null_stream_sink.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/restartable_timer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/result/capture_sink.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/result/capture_transformer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/result/error.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/result/future.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/result/release_sink.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/result/release_transformer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/result/result.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/result/value.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/single_subscription_transformer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/stream_completer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/stream_group.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/stream_queue.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/stream_sink_completer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/stream_sink_transformer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/stream_sink_transformer/handler_transformer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/stream_sink_transformer/stream_transformer_wrapper.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/stream_sink_transformer/typed.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/stream_splitter.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/stream_subscription_transformer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/stream_zip.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/subscription_stream.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/typed/stream_subscription.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/typed_stream_transformer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/async/lib/src/utils.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/.dartdevc.meta_module.clean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/.dartdevc.meta_module.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_data.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_data.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_data.dartdevc.unlinked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_data.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_data.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_data.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_renderer/bmp_renderer.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_renderer/bmp_renderer.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_renderer/bmp_renderer.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_renderer/bmp_renderer.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_renderer/bmp_renderer.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/header_parser/header_parser.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/header_parser/header_parser.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/header_parser/header_parser.dartdevc.unlinked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/header_parser/header_parser.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/header_parser/header_parser.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/header_parser/header_parser.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/web/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/web/main.dart.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/web/main.dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/web/main.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/web/main.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/web/main.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/web/main.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/.dartdevc.meta_module.clean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/.dartdevc.meta_module.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/ascii.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/ascii.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/ascii.dartdevc.unlinked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/ascii.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/ascii.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/ascii.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/charcode.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/charcode.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/charcode.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/charcode.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/charcode.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/html_entity.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/html_entity.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/html_entity.dartdevc.unlinked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/html_entity.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/html_entity.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/html_entity.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/.dartdevc.meta_module.clean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/.dartdevc.meta_module.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/algorithms.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/collection.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/collection.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/collection.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/collection.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/collection.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/equality.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/iterable_zip.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/priority_queue.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/algorithms.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/algorithms.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/algorithms.dartdevc.unlinked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/algorithms.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/algorithms.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/algorithms.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/canonicalized_map.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/canonicalized_map.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/canonicalized_map.dartdevc.unlinked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/canonicalized_map.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/canonicalized_map.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/canonicalized_map.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/combined_wrappers/combined_iterable.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/combined_wrappers/combined_list.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/combined_wrappers/combined_map.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/comparators.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/comparators.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/comparators.dartdevc.unlinked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/comparators.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/comparators.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/comparators.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/empty_unmodifiable_set.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/equality.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/equality_map.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/equality_set.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/functions.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/iterable_zip.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/iterable_zip.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/iterable_zip.dartdevc.unlinked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/iterable_zip.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/iterable_zip.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/iterable_zip.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/priority_queue.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/priority_queue.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/priority_queue.dartdevc.unlinked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/priority_queue.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/priority_queue.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/priority_queue.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/queue_list.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/union_set.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/union_set_controller.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/unmodifiable_wrappers.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/utils.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/utils.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/utils.dartdevc.unlinked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/utils.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/utils.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/utils.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/wrappers.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/wrappers.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/.dartdevc.meta_module.clean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/.dartdevc.meta_module.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/browser_client.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/browser_client.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/browser_client.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/browser_client.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/browser_client.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/http.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/http.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/http.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/http.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/http.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/io_client.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/base_client.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/base_client.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/base_client.dartdevc.unlinked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/base_client.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/base_client.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/base_client.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/base_request.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/base_response.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/boundary_characters.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/browser_client.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/byte_stream.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/client.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/client_stub.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/exception.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/io_client.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/mock_client.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/multipart_file.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/multipart_file_io.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/multipart_file_stub.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/multipart_request.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/request.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/response.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/streamed_request.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/streamed_response.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/src/utils.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http/lib/testing.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/.dartdevc.meta_module.clean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/.dartdevc.meta_module.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/http_parser.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/http_parser.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/http_parser.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/http_parser.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/http_parser.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/src/authentication_challenge.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/src/case_insensitive_map.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/src/chunked_coding.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/src/chunked_coding/decoder.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/src/chunked_coding/encoder.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/src/http_date.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/src/media_type.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/src/scan.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/http_parser/lib/src/utils.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/meta/lib/.dartdevc.meta_module.clean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/meta/lib/.dartdevc.meta_module.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/meta/lib/dart2js.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/meta/lib/meta.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/meta/lib/meta.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/meta/lib/meta.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/meta/lib/meta.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/meta/lib/meta.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/.dartdevc.meta_module.clean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/.dartdevc.meta_module.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/path.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/path.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/path.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/path.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/path.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/src/characters.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/src/context.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/src/internal_style.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/src/parsed_path.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/src/path_exception.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/src/path_map.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/src/path_set.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/src/style.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/src/style/posix.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/src/style/url.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/src/style/windows.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/path/lib/src/utils.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/.dartdevc.meta_module.clean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/.dartdevc.meta_module.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/source_span.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/source_span.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/source_span.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/source_span.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/source_span.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/src/colors.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/src/file.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/src/location.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/src/location_mixin.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/src/span.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/src/span_exception.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/src/span_mixin.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/src/span_with_context.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/source_span/lib/src/utils.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/.dartdevc.meta_module.clean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/.dartdevc.meta_module.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/src/eager_span_scanner.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/src/exception.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/src/line_scanner.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/src/relative_span_scanner.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/src/span_scanner.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/src/string_scanner.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/src/utils.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/string_scanner.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/string_scanner.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/string_scanner.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/string_scanner.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/string_scanner/lib/string_scanner.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/.dartdevc.meta_module.clean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/.dartdevc.meta_module.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/typed_buffers.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/typed_buffers.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/typed_buffers.dartdevc.unlinked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/typed_buffers.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/typed_buffers.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/typed_buffers.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/typed_data.dartdevc.linked.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/typed_data.dartdevc.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/typed_data.ddc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/typed_data.ddc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/typed_data.module.library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/bmp_reader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/bmp_data/bmp_data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/bmp_data/bmp_renderer/bmp_renderer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/bmp_data/header_parser/header_parser.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/dog.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/pitt.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/stalking-cat.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/main.scss" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2019690768">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="dart" value="15" />
+          <entry key="html" value="2" />
+          <entry key="js" value="1" />
+          <entry key="lock" value="1" />
+          <entry key="scss" value="2" />
+          <entry key="yaml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="Dart" value="15" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SCSS" value="2" />
+          <entry key="YAML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dart" value="7884" />
+          <entry key="html" value="133" />
+          <entry key="scss" value="80" />
+          <entry key="yaml" value="128" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Dart" value="7884" />
+          <entry key="HTML" value="133" />
+          <entry key="SCSS" value="80" />
+          <entry key="YAML" value="128" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/lib/dart/lib/typed_data/typed_data.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="388" column="17" selection-start-line="388" selection-start-column="17" selection-end-line="388" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/bmp_data/bmp_renderer/bmp_renderer.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+              <folding>
+                <element signature="e#2#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/lib/dart/lib/html/dart2js/html_dart2js.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="2258" column="12" selection-start-line="2258" selection-start-column="12" selection-end-line="2258" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/lib/dart/lib/core/iterable.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="301" column="4" selection-start-line="301" selection-start-column="4" selection-end-line="301" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/bmp_data/header_parser/header_parser.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-168">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/bmp_data/bmp_data.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_data.ddc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="70" column="10" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fillRec</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/header_parser/bmp_header_data.dart" />
+        <option value="$PROJECT_DIR$/header_parser/header_parser.dart" />
+        <option value="$PROJECT_DIR$/bmp_renderer/bmp_renderer.dart" />
+        <option value="$PROJECT_DIR$/bmp_data/bmp_data.dart" />
+        <option value="$PROJECT_DIR$/bmp_data/src/bmp_data.dart" />
+        <option value="$PROJECT_DIR$/bmp_data/src/bmp_renderer/bmp_renderer.dart" />
+        <option value="$PROJECT_DIR$/main.dart" />
+        <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web/main.scss" />
+        <option value="$PROJECT_DIR$/lib/bmp_data/header_parser/header_parser.dart" />
+        <option value="$PROJECT_DIR$/lib/bmp_data/bmp_renderer/bmp_renderer.dart" />
+        <option value="$PROJECT_DIR$/lib/bmp_data/bmp_data.dart" />
+        <option value="$PROJECT_DIR$/web/main.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bmp_reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bmp_reader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bmp_reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bmp_reader" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bmp_reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bmp_reader" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="bmp_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bmp_reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bmp_reader" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="bmp_data" type="462c0819:PsiDirectoryNode" />
+              <item name="bmp_renderer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bmp_reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bmp_reader" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="bmp_data" type="462c0819:PsiDirectoryNode" />
+              <item name="header_parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bmp_reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bmp_reader" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bmp_reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="bmp_reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bmp_reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+            </path>
+            <path>
+              <item name="bmp_reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="/usr/lib/dart" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/bmp_data" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/bmp_data/src" />
+      <recent name="$PROJECT_DIR$/bmp_data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="610a7750-0f51-473b-a8e7-9f458e7ff4f9" name="Default Changelist" comment="" />
+      <created>1540044089327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540044089327</updated>
+      <workItem from="1540044090450" duration="3092000" />
+      <workItem from="1540115668052" duration="29326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32418000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.3308351" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18443497" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.27292112" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32942432" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/lib/dart/lib/core/int.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3822">
+          <caret line="296" column="9" selection-start-line="296" selection-start-column="9" selection-end-line="296" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header_parser/bmp_header_data.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/web/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http-0.12.0/lib/src/browser_client.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#3592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http-0.12.0/lib/src/client.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/dart/lib/typed_data/typed_data.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="388" column="17" selection-start-line="388" selection-start-column="17" selection-end-line="388" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/dart/lib/core/iterable.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="301" column="4" selection-start-line="301" selection-start-column="4" selection-end-line="301" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/dart/lib/html/dart2js/html_dart2js.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="2258" column="12" selection-start-line="2258" selection-start-column="12" selection-end-line="2258" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bmp_data/bmp_renderer/bmp_renderer.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+          <folding>
+            <element signature="e#2#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.dart_tool/build/generated/bmp_reader/lib/bmp_data/bmp_data.ddc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="70" column="10" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bmp_data/bmp_data.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bmp_data/header_parser/header_parser.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
