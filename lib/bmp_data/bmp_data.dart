@@ -1,5 +1,5 @@
 import 'dart:typed_data';
-import './header_parser/header_parser.dart';
+import './bmp_header_data/bmp_header_data.dart';
 
 
 class BmpData {
@@ -11,7 +11,7 @@ class BmpData {
   BmpData(this.data, this.fileName) :
   headerData = new BmpHeaderData(data, fileName);
 
-  List<List<Map<String, int>>> makeImageData() {
+  List<List<Map<String, int>>> createRowPixels() {
     Uint8List rawImageData = data.buffer.asUint8List(headerData.startingOffset);
     bool has = true;
     int passedRowBytes = 0;

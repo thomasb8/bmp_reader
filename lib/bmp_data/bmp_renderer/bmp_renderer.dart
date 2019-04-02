@@ -11,7 +11,7 @@ class BmpRenderer {
 
   BmpRenderer(this.bmp, this.canvas) {
     initCanvas();
-    rowPixels = bmp.makeImageData();
+    rowPixels = bmp.createRowPixels();
   }
 
 
@@ -21,7 +21,6 @@ class BmpRenderer {
       context = _ctx;
       context.canvas.width = bmp.headerData.imageWidth;
       context.canvas.height = bmp.headerData.imageHeight;
-      print('success');
     } else {
       throw UnsupportedError('No context');
     }
