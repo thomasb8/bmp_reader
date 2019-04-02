@@ -1,1 +1,0 @@
-{"isEntrypoint":true,"deps":["bmp_reader|lib/bmp_data/header_parser/header_parser.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["typed_data"]}

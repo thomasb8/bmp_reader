@@ -39,7 +39,7 @@ class BmpHeaderData {
     numOfImportantColors = bData.getUint32(50, Endian.little);
   }
 
-  String writeData() {
+  String dataToString() {
     StringBuffer stringBuffer = new StringBuffer();
     if (isBmp)
       stringBuffer.write('$fileName is a bmp file\n');

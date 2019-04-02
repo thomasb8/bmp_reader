@@ -1,1 +1,0 @@
-{"isEntrypoint":true,"deps":["http|lib/http.dart","http|lib/browser_client.dart","bmp_reader|lib/bmp_data/bmp_data.dart","bmp_reader|lib/bmp_data/bmp_renderer/bmp_renderer.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","html","typed_data"]}
